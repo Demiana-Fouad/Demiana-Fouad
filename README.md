@@ -1,16 +1,21 @@
-### Hi there 👋
+### Demiana Fouad  👋
 
-<!--
-**Demiana-Fouad/Demiana-Fouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻 About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  »   🤔   Intersted in Data Science and Machine Learing >>> AI .
+  »  🎓   Studying Computer Science at Ain Shams University.
+🛠 Tech Stack
+
+
+
+   💻   Python | R | Java | C++ | C# | SQL |SCala 
+
+   🌐   HTML | CSS | JavaScript 
+
+   🛢   Oracle Database | MySQL | SQLite3
+   
+   
+
+
